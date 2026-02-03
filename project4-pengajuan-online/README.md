@@ -31,7 +31,7 @@ Sheet: `data_pengajuan`
 | created_at |
 # Web App GAS - Session 1
 Demo Web App:
-[[https://script.google.com/macros/s/XXXXXXXX/exec](https://script.google.com/macros/s/AKfycbxcLYd0MdSwPHbI0sC3ShzV4Xf3G-Lzj2J-GOkfn_K8oMLWMsX0CN6IK4AFY_3vy2uu/exec)](https://script.google.com/macros/library/d/1Uy8TMyQjzdMoiS20uspKEOh2tla7B0no9qvW3lsH1gbiBguKHFTuFYcm/2)
+https://script.google.com/macros/s/AKfycbwg9qsK_H2NqkCz21QbT4BfCROAE-urnaqXJDnorjeBKrvlUf56lOu_dS_2NpGGG1zvrw/exec
 
 ## Konfigurasi
 Edit di `Code.gs`:
